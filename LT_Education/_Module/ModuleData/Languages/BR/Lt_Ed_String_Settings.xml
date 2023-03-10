@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português (BR)" />
+  </tags>
+  <strings>
+    <!-- Dialogos -->
+    <string id="LT001" text="LT_Educação carregada"/>
+    <string id="LT002" text="LT_Education: Ocorreu um erro ao tentar carregar o mod em seu jogo atual."/>
+    <string id="LT003" text="Você pode ler!"/>
+    <string id="LT004" text="Que se saiba em todo o país que você é alfabetizado!"/>
+    <string id="LT005" text="cidade "/>
+    <string id="LT005a" text="cidade "/>
+    <string id="LT006" text="Aprenda a ler"/>
+    <string id="LT007" text="Ninguém quer te ensinar a ler. Eles acham que é inútil..."/>
+    <string id="LT008" text="Você encontrou um estudioso que concordou em ensiná-lo a ler para "/>
+    <string id="LT009" text=" {GOLD_ICON} por hora."/>
+    <string id="LT010" text="ensinar"/>
+    <string id="LT011" text="Vamos fazer isso!"/>
+    <string id="LT012" text="Não há ouro suficiente"/>
+    <string id="LT013" text="sair"/>
+    <string id="LT014" text=" {GOLD_ICON} por hora."/>
+    <string id="LT015" text="Talvez da próxima vez..."/>
+    <string id="LT016" text="O estudioso começa introduzindo o conceito do alfabeto e os sons que cada letra faz. Ele passa para as palavras básicas e ensina como pronunciá-las, bem como como lê-las no contexto. O estudioso enfatiza a importância da pronúncia e da enunciação para ler e compreender textos com precisão."/>
+    <string id="LT017" text="Não há ouro suficiente para continuar aprendendo..."/>
+    <string id="LT018" text="sair"/>
+
+    <string id="LT019" text="Pare por enquanto"/>
+    <string id="LT020" text="Aprenda a ler"/>
+    <string id="LT021" text="Os aldeões locais parecem confusos. Depois de uma breve conversa entre eles, o mais brilhante deles aponta para a cidade..."/>
+    <string id="LT022" text="sair"/>
+    <string id="LT023" text="sair"/>
+    <string id="LT024" text="Aprenda a ler"/>
+    <string id="LT025" text="Os locais parecem perplexos. Depois de coçar a cabeça, eles sugerem que você deveria ir para a cidade..."/>
+    <string id="LT026" text="Sair"/>
+    <string id="LT027" text="Sair"/>
+    <string id="LT028" text="Castelo"/>
+    <string id="LT029" text="Gerencie sua educação"/>
+    <string id="LT030" text="Test pop-up"/>
+    <string id="LT031" text="Olá!!!!"/>
+    <string id="LT032" text="Você é incrível!"/>
+    <string id="LT033" text="Sua habilidade espertalhão aumentou em 10000!"/>
+    <string id="LT034" text="Gerencie sua educação"/>
+    <string id="LT035" text="Gerencie sua educação"/>
+    <string id="LT036" text="Atualmente lendo: "/>
+    <string id="LT037" text="Você não está lendo nada no momento."/>
+    <string id="LT038" text="Selecione o que ler"/>
+    <string id="LT039" text="Parece um bom livro para ler"/>
+    <string id="LT040" text="Você já leu este livro."/>
+    <string id="LT041" text="A partir de agora, você lerá:"/>
+    <string id="LT042" text="Selecionar"/>
+
+    <string id="LT043" text="Sair"/>
+    <string id="LT044" text="Irá ler"/>
+
+    <string id="LT046" text="Decida não ler nada"/>
+    <string id="LT047" text="sair"/>
+    <string id="LT048" text="sair"/>
+    <string id="LT049" text="castle"/>
+    <string id="LT050" text="cidade"/>
+    <string id="LT051" text="aldeia"/>
+    <string id="LT052" text="Não há ouro suficiente..."/>
+
+    <string id="LT053" text="5 {GOLD_ICON}"/>
+    <string id="LT054" text="Sim, vi {VENDOR.FIRSTNAME} recentemente. Dê uma olhada na cidade."/>
+    <string id="LT055" text="Ouvi dizer que você pode encontrar o que procura em {SETTLEMENT}."/>
+
+    <string id="LT056" text="Não, não ouvi falar ultimamente."/>
+    <string id="LT057" text="Obrigado!"/>
+    <string id="LT058" text="Mais alguma coisa?"/>
+    <string id="LT059" text="Gostaria de ver o que você tem"/>
+    <string id="LT060" text="Não há ouro suficiente..."/>
+    <string id="LT061" text="Não preciso de mais nada por enquanto. Tchau."/>
+
+    <string id="LT062" text="Prazer em fazer negócios com você.[ib:hip][rb:positive][rf:happy]"/>
+    <string id="LT063" text="Encontrou tudo o que precisa? [ib:hip][rb:positive][rf:happy]"/>
+    <string id="LT064" text="Satisfeito? [ib:hip][rb:negative][if:angry]"/>
+    <string id="LT065" text="Obrigado!"/>
+    <string id="LT066" text="Posso te ajudar em mais alguma coisa? [ib:confident][if:convo_calm_friendly]"/>
+    <string id="LT067" text="Algo mais? [ib:confident][if:convo_calm_friendly]"/>
+    <string id="LT068" text="O que mais? [ib:hip][if:angry]"/>
+    <string id="LT069" text="fim"/>
+
+    <string id="LT070" text="Bom senhor, eu queria comprar um livro, e queria saber se você viu algum vendedor de livros na área. Algum deles passou por seu estabelecimento recentemente?"/>
+    <string id="LT071" text="Por favor, gentil senhor, você teve alguma notícia de algum vendedor de livros viajando nas proximidades? Estou em busca de algum novo material de leitura."/>
+    <string id="LT072" text="Com licença, bom senhor. Sou um bibliófilo e estou procurando um vendedor de livros. Algum desses comerciantes passou por seu estabelecimento recentemente?"/>
+    <string id="LT073" text="Meu bom homem, estou precisando de um livro e esperava encontrar um vendedor por perto. Você viu algum desses comerciantes nos últimos dias?"/>
+    <string id="LT074" text="Salve, senhor. Sou um amante de livros e estou querendo comprar um. Você conhece algum vendedor de livros que tenha passado por aqui ultimamente?"/>
+    <string id="LT075" text="Saudações, senhor. Estou em busca de um livro e gostaria de saber se você encontrou algum vendedor de livros recentemente. Ficaria muito grato se pudesse me ajudar em minha busca." />
+    <string id="LT076" text="Você poderia ter a gentileza de me informar, bom senhor, se algum vendedor de livros foi visto por aqui recentemente? Estou ansioso para adicionar à minha coleção."/>
+    <string id="LT077" text="Bom dia, senhor. Preciso de um livro e espero encontrar um vendedor por perto. Você já ouviu falar de algum mercador viajando pela área?"/>
+    <string id="LT078" text="Espero que esteja bem, senhor. Sou um leitor apaixonado e estou procurando um vendedor de livros. Alguma dessas pessoas visitou seu estabelecimento recentemente?"/>
+    <string id="LT079" text="Com licença, senhor. Sou um estudioso e preciso de algum novo material de leitura. Você viu algum vendedor de livros por aqui ultimamente?"/>
+    <string id="LT080" text="Bom senhor, eu esperava expandir minha biblioteca e gostaria de saber se você viu algum vendedor de livros na área recentemente. Qualquer informação que você puder fornecer será muito apreciada."/>
+    <string id="LT081" text="Não temos um livro que estávamos lendo antes..."/>
+    <string id="LT082" text="Lendo"/>
+
+    <string id="LT083" text="LT_Education: Não é possível criar fornecedores de livros... Reinstale o mod manualmente."/>
+    <string id="LT084" text="Você deve fornecer um argumento"/>
+    <string id="LT085" text="Depuração habilitada"/>
+    <string id="LT086a" text="Depuração desativada"/>
+
+    <string id="LT086" text="Bom dia, senhor! É um prazer recebê-lo em minha humilde baia."/>
+    <string id="LT087" text="Saudações, meu bom homem! Bem-vindo a examinar os tesouros literários que tenho a oferecer."/>
+    <string id="LT088" text="Bem conhecido, meu amigo! Tenho o prazer de recebê-lo na melhor coleção de livros de todo o país."/>
+    <string id="LT089" text="Salve, nobre senhor! Você é muito bem-vindo para explorar as riquezas de meus livros."/>
+    <string id="LT090" text="Bem-vindo, bom senhor! É uma honra tê-lo visto atentamente em minha seleção de volumes."/>
+    <string id="LT091" text="Saudações, gentil senhor! Dou-lhe as boas-vindas à minha humilde barraca, onde o conhecimento e as maravilhas o aguardam."/>
+    <string id="LT092" text="Bom dia para você, meu bom companheiro! Bem-vindo ao conhecimento e entretenimento que meus livros fornecem."/>
+    <string id="LT093" text="Saudações, meu estimado patrono! É um prazer dar-lhe as boas-vindas à minha coleção de boa literatura."/>
+    <string id="LT094" text="Bem conhecido, bom senhor! Bem-vindo para explorar as delícias literárias que esperam por você."/>
+    <string id="LT095" text="Saudações, meu caro senhor! Estou honrado em recebê-lo em minha barraca, onde você encontrará uma riqueza de conhecimento e sabedoria"/>
+
+    <string id="LT096" text="Bom dia, senhora! É um prazer recebê-la em minha humilde barraca"/>
+    <string id="LT097" text="Saudações, bela dama! Bem-vinda a examinar os tesouros literários que tenho a oferecer"/>
+    <string id="LT098" text="Muito bem, minha senhora! Tenho o prazer de recebê-la na melhor coleção de livros de todo o país"/>
+    <string id="LT099" text="Salve, nobre senhora! Você é muito bem-vindo para explorar as riquezas de meus livros."/>
+    <string id="LT100" text="Bem-vinda, bela donzela! É uma honra tê-la lendo minha seleção de volumes."/>
+    <string id="LT101" text="Saudações, amável senhora! Dou-lhe as boas-vindas à minha humilde tenda, onde o conhecimento e as maravilhas o aguardam."/>
+    <string id="LT102" text="Bom dia para você, minha querida senhora! Seja bem-vinda ao conhecimento e entretenimento que meus livros fornecem."/>
+    <string id="LT103" text="Saudações, minha estimada patrona! É um prazer dar-lhe as boas-vindas à minha coleção de boa literatura."/>
+    <string id="LT104" text="Bem conhecido, bela donzela! Bem-vindo para explorar as delícias literárias que esperam por você."/>
+    <string id="LT105" text="Saudações, minha querida senhora! Estou honrado em recebê-la em minha barraca, onde você encontrará uma riqueza de conhecimento e sabedoria."/>
+
+    <string id="LT106" text="Bem-vindo, bom senhor! Posso lhe interessar em um livro sobre cavalaria? Acredito que seria uma combinação perfeita para um cavaleiro tão bonito quanto você."/>
+    <string id="LT107" text="Saudações, meu senhor! Sua presença aqui tornou meu dia mais brilhante que o próprio sol"/>
+    <string id="LT108" text="Meu bom senhor, parece que as estrelas se alinharam hoje, pois tenho o prazer de conhecer um homem tão galante como você."/>
+    <string id="LT109" text="Bendito seja o dia em que pus os olhos em você, meu senhor. Como posso ser útil para você hoje?"/>
+    <string id="LT110" text="Bom dia, gentil senhor! Se ao menos as páginas dos meus livros pudessem ser tão charmosas quanto o seu sorriso."/>
+    <string id="LT111" text="Que prazer é ver um homem com tanto gosto e refinamento folheando minha humilde coleção de literatura"/>
+    <string id="LT112" text="Você deve ser um estudioso, meu senhor, pois somente um homem de grande intelecto poderia apreciar a beleza de meus livros tanto quanto você."/>
+    <string id="LT113" text="Dizem que conhecimento é poder, mas eu diria que o verdadeiro poder está na companhia de um belo cavalheiro como você."/>
+    <string id="LT114" text="Devo confessar, meu senhor, que há algum tempo espero que um homem do seu calibre visite minha humilde livraria."/>
+    <string id="LT115" text="Você deve ser um homem de grande discernimento para ter encontrado o caminho para o meu cantinho do mundo. Posso sugerir um volume sobre a arte do amor cortês para combinar com sua própria natureza romântica?" />
+
+    <string id="LT116" text="Bem-vinda, bela dama! Você enfeita minha humilde livraria com sua beleza e charme." />
+    <string id="LT117" text="É uma honra servir uma mulher com tanto refinamento e graça. Posso recomendar um volume sobre a arte do amor cortês para combinar com sua própria natureza romântica?"/>
+    <string id="LT118" text="Minha senhora, não posso deixar de ficar impressionado com seu esplendor. Permita-me ajudá-la a encontrar o livro perfeito para combinar com seu brilho."/>
+    <string id="LT119" text="É raro encontrar uma mulher com gosto tão exigente quanto você. Estou ansioso para mostrar a você os tesouros de minha coleção."/>
+    <string id="LT120" text="Que prazer é ver uma mulher de sua estatura em minha livraria! Permita-me apresentá-lo a algumas das melhores literaturas do país."/>
+    <string id="LT121" text="Minha senhora, sua presença aqui é como uma lufada de ar fresco. Posso lhe interessar em um livro de poesia para combinar com sua própria beleza lírica?"/>
+    <string id="LT122" text="Nunca vi uma mulher com tanta elegância e graça como você. Ficarei honrado em ajudá-lo a encontrar o volume perfeito para combinar com sua sofisticação."/>
+    <string id="LT123" text="Está claro que você é uma mulher de grande intelecto e sabedoria. Posso sugerir um livro sobre filosofia ou teologia para combinar com sua mente afiada?"/>
+    <string id="LT124" text="Minha senhora, não posso deixar de ser cativado por seu charme e carisma. Por favor, permita-me ser seu guia nesta jornada literária."/>
+    <string id="LT125" text="Que prazer é ver uma mulher com a sua beleza e inteligência na minha humilde livraria. Posso sugerir um volume de história que corresponda ao seu conhecimento e sabedoria?"/>
+
+
+
+    <string id="LT126" text="O que você quer, canalha? Fale rápido, pois tenho coisas melhores para fazer do que ouvir sua tagarelice."/>
+    <string id="LT127" text="Quem me perturba em meu descanso? ​​Exponha seus negócios ou vá embora, para que eu não lance meus cães sobre você."/>
+    <string id="LT128" text="O que o traz ao meu humilde estabelecimento, miserável? Se é moeda que você procura, saiba que exijo pagamento adiantado."/>
+    <string id="LT129" text="Fale francamente, pois não tenho paciência para aqueles que desperdiçam meu tempo com conversa fiada. O que você deseja?"/>
+    <string id="LT130" text="O que você procura, viajante? Fale rápido, pois meu temperamento diminui a cada momento que passa."/>
+    <string id="LT131" text="Saudações, estranho. O que você tem a ver comigo? Seja breve, pois não estou com disposição para companhia."/>
+    <string id="LT132" text="Quem se atreve a perturbar minha paz? Diga o que pensa ou me deixe com meus pensamentos."/>
+    <string id="LT133" text="O que o traz à minha porta, idiota? Exponha o que quer, ou mandarei meus guardas removê-lo."/>
+    <string id="LT134" text="Bem conhecido, viajante. Declare seu propósito ou siga seu caminho. Não tenho paciência para andarilhos sem rumo."/>
+    <string id="LT135" text="O que você quer, camponês? Não estou com humor para gentilezas. Fale rápido e siga seu caminho."/>
+
+    <string id="LT136" text="O que você quer, moça? Fale rápido, pois não tenho tempo para conversa fiada."/>
+    <string id="LT137" text="Quem é você para me perturbar? Exponha o seu negócio ou enfrente as consequências."/>
+    <string id="LT138" text="O que a traz à minha porta, donzela? Se é moeda que você procura, esteja preparada para pagar um preço justo."/>
+    <string id="LT139" text="Fale claramente, pois não tenho paciência para aqueles que tagarelam. O que você deseja?"/>
+    <string id="LT140" text="O que você procura, mulher? Fale rápido, pois tenho assuntos mais importantes para resolver."/>
+    <string id="LT141" text="Saudações, bela dama. O que você tem a ver comigo? Seja breve, pois meu tempo é precioso."/>
+    <string id="LT142" text="Quem se atreve a interromper minha solidão? Diga o que pensa ou siga seu caminho."/>
+    <string id="LT143" text="O que a traz aqui, garota? Declare seu propósito ou arrisque enfrentar minha ira."/>
+    <string id="LT144" text="Bem conhecido, viajante. O que você procura? Fale rapidamente e siga seu caminho."/>
+    <string id="LT145" text="O que você quer, prostituta? Não tenho tempo para seus joguinhos. Exponha o que quer e vá embora."/>
+
+    <string id="LT146" text="Adeus, bom senhor! Agradeço por agraciar minha barraca com sua presença."/>
+    <string id="LT147" text="Adeus, meu amigo! Que o conhecimento que você adquiriu em meus livros enriqueça sua vida."/>
+    <string id="LT148" text="Adeus, meu caro senhor! Foi um prazer ajudá-lo em sua busca pelo conhecimento."/>
+    <string id="LT149" text="Boa sorte, nobre senhor! Eu me despeço e espero vê-lo novamente em breve."/>
+    <string id="LT150" text="Adeus, meu bom homem! Agradeço o seu patrocínio e desejo-lhe uma boa viagem."/>
+    <string id="LT151" text="Que as bênçãos do Todo-Poderoso estejam sobre você, meu amigo! Adeus e boa leitura."/>
+    <string id="Lt152" text="Adeus, bom senhor! Espero que os livros que você adquiriu lhe tragam muita alegria e iluminação."/>
+    <string id="LT153" text="Que sua sede de conhecimento nunca seja saciada, meu caro senhor! Adeus, e que você encontre o que procura."/>
+    <string id="LT154" text="Adeus, meu estimado patrono! Foi uma honra servi-lo e compartilhar meu amor pelos livros com você."/>
+    <string id="LT155" text="Adeus, meu caro senhor! Eu me despeço com a esperança de que meus livros lhe tragam muitas horas de alegria e aprendizado."/>
+
+    <string id="LT156" text="Adeus, bela dama! Agradeço por agraciar minha barraca com sua presença."/>
+    <string id="LT157" text="Adeus, minha querida senhora! Que o conhecimento que você adquiriu de meus livros enriqueça sua vida."/>
+    <string id="LT158" text="Adeus, minha estimada padroeira! Foi um prazer ajudá-la em sua busca pelo conhecimento."/>
+    <string id="LT159" text="Boa noite, nobre senhora! Eu me despeço e espero vê-la novamente em breve."/>
+    <string id="LT160" text="Adeus, minha gentil senhora! Agradeço seu patrocínio e desejo-lhe uma boa viagem."/>
+    <string id="LT161" text="Que as bênçãos do Todo-Poderoso estejam sobre você, minha querida senhora! Adeus e boa leitura."/>
+    <string id="LT162" text="Adeus, linda donzela! Espero que os livros que você adquiriu lhe tragam muita alegria e iluminação."/>
+    <string id="LT163" text="Que sua sede de conhecimento nunca seja saciada, minha querida senhora! Adeus, e que você encontre o que procura."/>
+    <string id="LT164" text="Adeus, minha querida senhora! Foi uma honra atendê-la e compartilhar meu amor pelos livros com você"/>
+    <string id="LT165" text="Adeus, minha estimada padroeira! Despeço-me com a esperança de que meus livros lhe tragam muitas horas de alegria e aprendizado."/>
+
+    <string id="LT166" text="Adeus, bom senhor! Espero que volte a me visitar em breve, para que possamos continuar nossas discussões sobre literatura e romance."/>
+    <string id="LT167" text="Até nos encontrarmos novamente, meu senhor. Que seu coração esteja tão cheio de alegria quanto sua mente está cheia de conhecimento."/>
+    <string id="LT168" text="Foi um prazer atendê-lo, meu galante cavaleiro. Aguardarei ansiosamente o dia em que você retornará à minha humilde livraria."/>
+    <string id="LT169" text="Eu lhe dou adeus, meu senhor. Que sua jornada seja tão brilhante e gratificante quanto as páginas dos livros que você lê tão avidamente."/>
+    <string id="LT170" text="Até a próxima vez, meu bom senhor. Que o conhecimento que você adquiriu de meus livros o sirva bem em todos os seus empreendimentos."/>
+    <string id="LT171" text="Adeus, meu senhor. Lembre-se que minha livraria está sempre aberta para um homem de seu gosto e refinamento."/>
+    <string id="LT172" text="Foi uma honra servir um homem de sua estatura e graça. Que suas viagens sejam seguras e sua mente seja sempre expandida pelas palavras de meus livros."/>
+    <string id="LT173" text="Até nos encontrarmos novamente, meu senhor. Que a beleza e a sabedoria contidas em meus livros sejam uma fonte constante de inspiração para você."/>
+    <string id="LT174" text="Sentirei falta de sua encantadora companhia, meu caro senhor. Que as lições que você aprendeu em meus livros o sirvam bem em sua jornada pela vida."/>
+    <string id="LT175" text="Adeus, meu senhor. Saiba que a lembrança de sua presença aqui permanecerá em meu coração como a fragrância das rosas em meu jardim."/>
+
+    <string id="LT176" text="Adeus, bela dama! Que as páginas dos livros que você selecionou sejam tão esclarecedoras e belas quanto seu próprio semblante."/>
+    <string id="LT177" text="Até nos encontrarmos novamente, minha senhora. Que o conhecimento que você adquiriu em meus livros sirva para aprimorar ainda mais seu intelecto já brilhante."/>
+    <string id="LT178" text="Foi um prazer servir uma mulher com tanta elegância e graça. Que a jornada da vida lhe traga tanta alegria quanto a sua presença aqui me trouxe."/>
+    <string id="LT179" text="Dejo-lhe adeus, minha senhora. Que o romance e a paixão de meus livros a inspirem a níveis cada vez maiores de amor e devoção"/>
+    <string id="LT180" text="Até a próxima vez, minha querida senhora. Que as palavras contidas em meus livros continuem a acender o fogo de sua própria criatividade e inspiração."/>
+    <string id="LT181" text="Adeus, bela donzela. Lembre-se de que minha livraria está sempre aberta para uma mulher com sua beleza e bom gosto."/>
+    <string id="LT182" text="Foi uma honra servi-la, minha senhora. Que as lições contidas em meus livros a guiem em sua jornada pela vida com sabedoria e discernimento cada vez maiores."/>
+    <string id="LT183" text="Até nos encontrarmos novamente, minha senhora. Que o conhecimento e a beleza de meus livros sirvam como uma fonte constante de inspiração para sua própria vida e esforços."/>
+    <string id="LT184" text="Sentirei falta de sua encantadora companhia, minha querida senhora. Que as lembranças de nossas conversas e o conhecimento contido em meus livros sejam um conforto constante para você."/>
+    <string id="LT185" text="Adeus, minha senhora. Saiba que a beleza e o esplendor de sua presença aqui permanecerão em meu coração como o brilho das estrelas no céu noturno..."/>
+
+    <string id="LT186" text="Saia rapidamente de minha vista, seu rato pestilento!"/>
+    <string id="LT187" text="Fora com você, seu canalha imundo e desdenhoso!"/>
+    <string id="LT188" text="Que o diabo leve você rapidamente, e rapidamente!"/>
+    <string id="LT189" text="Eu me despeço, mas não volte ao meu estabelecimento!"/>
+    <string id="LT190" text="Saia imediatamente, e que você nunca mais escureça minha porta!"/>
+    <string id="LT191" text="Vá embora sem demora, antes que eu vá embora."/>
+    <string id="LT192" text="Sua empresa está ficando cada vez mais cansativa, longe de você e rapidamente!"/>
+    <string id="LT193" text="Saia da minha frente, antes que eu convoque os guardas para removê-lo!"/>
+    <string id="LT194" text="Que a estrada que você percorrer seja longa e árdua para você, e que você não encontre descanso!"/>
+    <string id="LT195" text="Não me importa aonde você vá, desde que seja longe da minha presença!"/>
+
+    <string id="LT196" text=" tem livros: "/>
+    <string id="LT197" text="Removido "/>
+    <string id="LT198" text=" de "/>
+    <string id="LT199" text=" livros restantes: "/>
+    <string id="LT200" text="Removeu 3 livros de "/>
+    <string id="LT201" text=" livros restantes: "/>
+    <string id="LT202" text="Adicionou livros a "/>
+    <string id="LT203" text=" tem "/>
+    <string id="LT204" text="livros"/>
+    <string id="LT205" text="Concluída a leitura: "/>
+    <string id="LT206" text="Isso aumentou seu "/>
+    <string id="LT207" text=" habilidade por "/>
+    <string id="LT208" text="Você é muito habilidoso em "/>
+    <string id="LT209" text=",\n então o livro foi uma perda de tempo..."/>
+    <string id="LT210" text="Concluída a leitura"/>
+    <string id="LT211" text="Concluída a leitura: "/>
+    <string id="LT212" text="Isso aumentou seu "/>
+    <string id="LT213" text=" habilidade por "/>
+    <string id="LT214" text="Você é muito habilidoso em "/>
+    <string id="LT215" text=",\n então o scroll foi uma perda de tempo..."/>
+    <string id="LT216" text="Concluída a leitura"/>
+
+
+
+
+
+  </strings>
+</base>

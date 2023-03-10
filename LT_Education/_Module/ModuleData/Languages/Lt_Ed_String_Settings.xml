@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <!-- Dialogos -->
+    <string id="LT001" text="LT_Education loaded"/>
+    <string id="LT002" text="LT_Education: An Error occurred, when trying to load the mod into your current game."/>
+    <string id="LT003" text="You can read!"/>
+    <string id="LT004" text="Let it be known throughout the land that you are literate!"/>
+    <string id="LT005" text="town"/>
+    <string id="LT005a" text="town"/>
+    <string id="LT006" text="Learn to read"/>
+    <string id="LT007" text="Nobody wants to teach you how to read. They think it's hopeless..."/>
+    <string id="LT008" text="You found a scholar who agreed to teach you how to read for "/>
+    <string id="LT009" text=" {GOLD_ICON} per hour."/>
+    <string id="LT010" text="teach"/>
+    <string id="LT011" text="Let's do this!"/>
+    <string id="LT012" text="Not enough gold"/>
+    <string id="LT013" text="leave"/>
+    <string id="LT014" text=" {GOLD_ICON} per hour."/>
+    <string id="LT015" text="Maybe next time..."/>
+    <string id="LT016" text="The scholar begins by introducing the concept of the alphabet and the sounds each letter makes. He moves on to basic words and teaches how to pronounce them, as well as how to read them in context. The scholar emphasizes the importance of pronunciation and enunciation to accurately read and understand texts."/>
+    <string id="LT017" text="Not enough gold to continue learning..."/>
+    <string id="LT018" text="leave"/>
+    <string id="LT019" text="Stop for now"/>
+    <string id="LT020" text="Learn to read"/>
+    <string id="LT021" text="Local villagers look confused. After a short talk between themselves, the brightest of them points towards the town..."/>
+    <string id="LT022" text="leave"/>
+    <string id="LT023" text="leave"/>
+    <string id="LT024" text="Learn to read"/>
+    <string id="LT025" text="Locals look puzzled. After scratching their heads they suggest you should go to the town..."/>
+    <string id="LT026" text="Leave"/>
+    <string id="LT027" text="Leave"/>
+    <string id="LT028" text="Castle"/>
+    <string id="LT029" text="Manage your education"/>
+    <string id="LT030" text="Test popup"/>
+    <string id="LT031" text="Howdy!!!!"/>
+    <string id="LT032" text="You are awesome!"/>
+    <string id="LT033" text="You smart-ass skill increased by 10000!"/>
+    <string id="LT034" text="Manage your education"/>
+    <string id="LT035" text="Manage your education"/>
+    <string id="LT036" text="Currently reading: "/>
+    <string id="LT037" text="You are not reading anything currently."/>
+    <string id="LT038" text="Select what to read"/>
+    <string id="LT039" text="This looks like a good book to read"/>
+    <string id="LT040" text="You have already read this book."/>
+    <string id="LT041" text="From now on, you will read:"/>
+    <string id="LT042" text="Select"/>
+    <string id="LT043" text="Leave"/>
+    <string id="LT044" text="Will read "/>
+    
+    <string id="LT046" text="Decide not to read anything"/>
+    <string id="LT047" text="leave"/>
+    <string id="LT048" text="leave"/>
+    <string id="LT049" text="castle"/>
+    <string id="LT050" text="town"/>
+    <string id="LT051" text="village"/>
+    <string id="LT052" text="Not enough gold..."/>
+    <string id="LT053" text="5 {GOLD_ICON}"/>
+    <string id="LT054" text="Yeah, saw {VENDOR.FIRSTNAME} recently. Look around the town."/>
+    <string id="LT055" text="I heard you can find what you are looking for in {SETTLEMENT}."/>
+    <string id="LT056" text="No, haven't heard lately."/>
+    <string id="LT057" text="Thanks!"/>
+    <string id="LT058" text="Anything else?"/>
+    <string id="LT059" text="I would like to see what you have"/>
+    <string id="LT060" text="Not enough gold..."/>
+    <string id="LT061" text="I don't need anything else for now. Bye."/>
+    <string id="LT062" text="Pleasure doing business with you. [ib:hip][rb:positive][rf:happy]"/>
+    <string id="LT063" text="Found everything you need? [ib:hip][rb:positive][rf:happy]"/>
+    <string id="LT064" text="Satisfied? [ib:hip][rb:negative][if:angry]"/>
+    <string id="LT065" text="Thank you!"/>
+    <string id="LT066" text="Can I help you with anything else? [ib:confident][if:convo_calm_friendly]"/>
+    <string id="LT067" text="Anything else? [ib:confident][if:convo_calm_friendly]"/>
+    <string id="LT068" text="What else? [ib:hip][if:angry]"/>
+    <string id="LT069" text="end"/>
+    <string id="LT070" text="Good sir, I was hoping to purchase a book, and I was wondering if you have seen any book vendors in the area. Have any passed through your establishment recently?"/>
+    <string id="LT071" text="Pray, kind sir, have you had any news of any book vendors traveling in the vicinity? I am in search of some new reading material."/>
+    <string id="LT072" text="Excuse me, good sir. I am a bibliophile and I am on the lookout for a book vendor. Have any such merchants come through your establishment recently?"/>
+    <string id="LT073" text="My good man, I am in need of a book and was hoping to find a vendor nearby. Might you have seen any such tradespeople in recent days?"/>
+    <string id="LT074" text="Hail, sir. I am a lover of books and am seeking to purchase one. Would you happen to know of any book vendors that have passed through here lately?"/>
+    <string id="LT075" text="Greetings, sir. I am in quest of a book and I was wondering if you have come across any book vendors recently. I would be much obliged if you could assist me in my search."/>
+    <string id="LT076" text="Might you be so kind as to inform me, good sir, if any book vendors have been seen in these parts recently? I am eager to add to my collection."/>
+    <string id="LT077" text="Good day, sir. I am in need of a book, and I was hoping to find a vendor nearby. Have you heard of any such merchants traveling in the area?"/>
+    <string id="LT078" text="I hope this finds you well, sir. I am a passionate reader and I am searching for a book vendor. Have any such individuals come to your establishment in recent times?"/>
+    <string id="LT079" text="Excuse me, sir. I am a scholar and I am in need of some new reading material. Have you seen any book vendors around these parts lately?"/>
+    <string id="LT080" text="Good sir, I was hoping to expand my library, and I was wondering if you have seen any book vendors in the area recently. Any information you could provide would be greatly appreciated."/>
+    <string id="LT081" text="We don't have a book we were reading before..."/>
+    <string id="LT082" text="Reading "/>
+
+    <string id="LT083" text="LT_Education: Can't create book vendors... Reinstall mod manually."/>
+    <string id="LT084" text="You must provide an argument"/>
+    <string id="LT085" text="Debug enabled"/>
+    <string id="LT086a" text="Debug disabled"/>
+
+    <string id="LT086" text="Good morrow, sir! It is my pleasure to welcome you to my humble stall."/>
+    <string id="LT087" text="Greetings, my good man! Welcome to peruse the literary treasures I have to offer."/>
+    <string id="LT088" text="Well met, my friend! I am delighted to welcome you to the finest collection of books in all the land."/>
+    <string id="LT089" text="Hail to thee, noble sir! You are most welcome to explore the riches of my books."/>
+    <string id="LT090" text="Welcome, good sir! It is an honor to have you peruse my selection of tomes."/>
+    <string id="LT091" text="Greetings, kind sir! I bid you welcome to my humble stall, where knowledge and wonder await."/>
+    <string id="LT092" text="Good day to you, my good fellow! Welcome to indulge in the knowledge and entertainment my books provide."/>
+    <string id="LT093" text="Salutations, my esteemed patron! It is my pleasure to welcome you to my collection of fine literature."/>
+    <string id="LT094" text="Well met, good sir! Welcome to explore the literary delights that await you."/>
+    <string id="LT095" text="Greetings, my dear sir! I am honored to welcome you to my stall, where you'll find a wealth of knowledge and wisdom"/>
+    
+    <string id="LT096" text="Good morrow, madam! It is my pleasure to welcome you to my humble stall"/>
+    <string id="LT097" text="Greetings, fair lady! Welcome to peruse the literary treasures I have to offer"/>
+    <string id="LT098" text="Well met, my lady! I am delighted to welcome you to the finest collection of books in all the land"/>
+    <string id="LT099" text="Hail to thee, noble madam! You are most welcome to explore the riches of my books."/>
+    <string id="LT100" text="Welcome, fair maiden! It is an honor to have you peruse my selection of tomes."/>
+    <string id="LT101" text="Greetings, kind lady! I bid you welcome to my humble stall, where knowledge and wonder await."/>
+    <string id="LT102" text="Good day to you, my dear lady! Welcome to indulge in the knowledge and entertainment my books provide."/>
+    <string id="LT103" text="Salutations, my esteemed patroness! It is my pleasure to welcome you to my collection of fine literature."/>
+    <string id="LT104" text="Well met, fair damsel! Welcome to explore the literary delights that await you."/>
+    <string id="LT105" text="Greetings, my dear lady! I am honored to welcome you to my stall, where you'll find a wealth of knowledge and wisdom."/>
+    
+    <string id="LT106" text="Welcome, good sir! May I interest you in a book on chivalry? I believe it would be a perfect match for a knight as handsome as yourself."/>
+    <string id="LT107" text="Greetings, my lord! Your presence here has made my day brighter than the sun itself"/>
+    <string id="LT108" text="My good sir, it seems as though the stars have aligned today, for I have the pleasure of meeting a man as gallant as yourself."/>
+    <string id="LT109" text="Blessed be the day I set eyes upon you, my lord. How may I be of service to you today?"/>
+    <string id="LT110" text="Good day, kind sir! If only the pages of my books could be as charming as your smile."/>
+    <string id="LT111" text="What a pleasure it is to see a man of such taste and refinement browsing my humble collection of literature"/>
+    <string id="LT112" text="You must be a scholar, my lord, for only a man of great intellect could appreciate the beauty of my books as much as you do."/>
+    <string id="LT113" text="It is said that knowledge is power, but I would argue that the real power lies in the company of a handsome gentleman such as yourself."/>
+    <string id="LT114" text="I must confess, my lord, that I have been waiting for a man of your caliber to visit my humble bookshop for some time now."/>
+    <string id="LT115" text="You must be a man of great discernment to have found your way to my little corner of the world. Might I suggest a volume on the art of courtly love to match your own romantic nature?"/>
+    
+    <string id="LT116" text="Welcome, fair lady! You grace my humble bookshop with your beauty and charm." />
+    <string id="LT117" text="It is an honor to serve a woman of such refinement and grace. Might I recommend a volume on the art of courtly love to match your own romantic nature?"/>
+    <string id="LT118" text="My lady, I cannot help but be struck by your radiance. Please allow me to assist you in finding the perfect book to match your brilliance."/>
+    <string id="LT119" text="It is rare to find a woman with such discerning taste as yourself. I am eager to show you the treasures within my collection."/>
+    <string id="LT120" text="What a delight it is to see a woman of your stature in my bookshop! Allow me to introduce you to some of the finest literature in the land."/>
+    <string id="LT121" text="My lady, your presence here is like a breath of fresh air. Might I interest you in a book on poetry to match your own lyrical beauty?"/>
+    <string id="LT122" text="I have never seen a woman with such elegance and grace as yourself. I would be honored to assist you in finding the perfect volume to match your sophistication."/>
+    <string id="LT123" text="It is clear that you are a woman of great intellect and wisdom. Might I suggest a tome on philosophy or theology to match your own sharp mind?"/>
+    <string id="LT124" text="My lady, I cannot help but be captivated by your charm and charisma. Please allow me to be your guide in this literary journey."/>
+    <string id="LT125" text="What a pleasure it is to see a woman of your beauty and intelligence in my humble bookshop. Might I suggest a volume on history to match your own knowledge and wisdom?"/>
+    
+    <string id="LT126" text="What do you want, knave? Speak quickly, for I have better things to do than listen to your prattle."/>
+    <string id="LT127" text="Who disturbs me from my rest? State your business or be gone, lest I set my dogs upon you."/>
+    <string id="LT128" text="What brings you to my humble establishment, wretch? If it is coin you seek, know that I demand payment up front."/>
+    <string id="LT129" text="Speak plainly, for I have no patience for those who waste my time with idle chatter. What do you desire?"/>
+    <string id="LT130" text="What is it you seek, traveler? Speak quickly, for my temper grows short with every passing moment."/>
+    <string id="LT131" text="Greetings, stranger. What business have you with me? Make it brief, for I am not in the mood for company."/>
+    <string id="LT132" text="Who dares disturb my peace? Speak your mind or leave me to my thoughts."/>
+    <string id="LT133" text="What brings you to my doorstep, fool? State your business, or I shall have my guards remove you."/>
+    <string id="LT134" text="Well met, traveler. State your purpose or be on your way. I have no patience for aimless wanderers."/>
+    <string id="LT135" text="What do you want, peasant? I am not in the mood for pleasantries. Speak quickly and be on your way."/>
+    
+    <string id="LT136" text="What do you want, wench? Speak quickly, for I have no time for idle chatter."/>
+    <string id="LT137" text="Who are you to disturb me? State your business or face the consequences."/>
+    <string id="LT138" text="What brings you to my doorstep, maiden? If it is coin you seek, be prepared to pay a fair price."/>
+    <string id="LT139" text="Speak plainly, for I have no patience for those who prattle on. What is it you desire?"/>
+    <string id="LT140" text="What do you seek, woman? Speak quickly, for I have more important matters to attend to."/>
+    <string id="LT141" text="Greetings, fair lady. What business have you with me? Make it brief, for my time is precious."/>
+    <string id="LT142" text="Who dares to interrupt my solitude? Speak your mind or be on your way."/>
+    <string id="LT143" text="What brings you here, girl? State your purpose or risk facing my wrath."/>
+    <string id="LT144" text="Well met, traveler. What is it that you seek? Speak quickly and be on your way."/>
+    <string id="LT145" text="What do you want, harlot? I have no time for your games. State your business and be gone."/>
+    
+    <string id="LT146" text="Farewell, good sir! I thank you for gracing my stall with your presence."/>
+    <string id="LT147" text="Adieu, my friend! May the knowledge you've acquired from my books enrich your life."/>
+    <string id="LT148" text="Farewell, my dear sir! It was a pleasure to assist you in your quest for knowledge."/>
+    <string id="LT149" text="Godspeed, noble sir! I bid you farewell and hope to see you again soon."/>
+    <string id="LT150" text="Farewell, my good man! I thank you for your patronage and bid you a safe journey."/>
+    <string id="LT151" text="May the blessings of the Almighty be upon you, my friend! Farewell, and happy reading."/>
+    <string id="Lt152" text="Fare thee well, kind sir! I hope the books you've acquired bring you much joy and enlightenment."/>
+    <string id="LT153" text="May your thirst for knowledge never be quenched, my dear sir! Farewell, and may you find what you seek."/>
+    <string id="LT154" text="Farewell, my esteemed patron! It was an honor to serve you and share my love of books with you."/>
+    <string id="LT155" text="Goodbye, my dear sir! I bid you farewell with the hope that my books will bring you many hours of joy and learning."/>
+    
+    <string id="LT156" text="Farewell, fair lady! I thank you for gracing my stall with your presence."/>
+    <string id="LT157" text="Adieu, my dear madam! May the knowledge you've acquired from my books enrich your life."/>
+    <string id="LT158" text="Farewell, my esteemed patroness! It was a pleasure to assist you in your quest for knowledge."/>
+    <string id="LT159" text="Godspeed, noble lady! I bid you farewell and hope to see you again soon."/>
+    <string id="LT160" text="Farewell, my kind lady! I thank you for your patronage and bid you a safe journey."/>
+    <string id="LT161" text="May the blessings of the Almighty be upon you, my dear lady! Farewell, and happy reading."/>
+    <string id="LT162" text="Fare thee well, fair maiden! I hope the books you've acquired bring you much joy and enlightenment."/>
+    <string id="LT163" text="May your thirst for knowledge never be quenched, my dear lady! Farewell, and may you find what you seek."/>
+    <string id="LT164" text="Farewell, my dear lady! It was an honor to serve you and share my love of books with you"/>
+    <string id="LT165" text="Goodbye, my esteemed patroness! I bid you farewell with the hope that my books will bring you many hours of joy and learning."/>
+    
+    <string id="LT166" text="Farewell, good sir! I hope you will visit me again soon, so that we may continue our discussions of literature and romance."/>
+    <string id="LT167" text="Until we meet again, my lord. May your heart be as full of joy as your mind is full of knowledge."/>
+    <string id="LT168" text="It has been a pleasure serving you, my gallant knight. I shall look forward to the day when you return to my humble bookshop."/>
+    <string id="LT169" text="I bid you adieu, my lord. May your journey be as bright and fulfilling as the pages of the books you so avidly peruse."/>
+    <string id="LT170" text="Until next time, my good sir. May the knowledge you have gleaned from my books serve you well in all your endeavors."/>
+    <string id="LT171" text="Farewell, my lord. Remember that my bookshop is always open to a man of your taste and refinement."/>
+    <string id="LT172" text="It has been an honor serving a man of your stature and grace. May your travels be safe and your mind be ever expanded by the words within my books."/>
+    <string id="LT173" text="Until we meet again, my lord. May the beauty and wisdom within my books be a constant source of inspiration for you."/>
+    <string id="LT174" text="I shall miss your charming company, my dear sir. May the lessons you have learned within my books serve you well on your journey through life."/>
+    <string id="LT175" text="Farewell, my lord. Know that the memory of your presence here shall linger within my heart like the fragrance of the roses in my garden."/>
+
+    <string id="LT176" text="Farewell, fair lady! May the pages of the books you have selected be as enlightening and beautiful as your own countenance."/>
+    <string id="LT177" text="Until we meet again, my lady. May the knowledge you have gained within my books serve to further enhance your already sparkling intellect."/>
+    <string id="LT178" text="It has been a pleasure serving a woman of such elegance and grace. May the journey of life bring you as much joy as your presence here has brought me."/>
+    <string id="LT179" text="I bid you adieu, my lady. May the romance and passion within my books inspire you to ever greater heights of love and devotion"/>
+    <string id="LT180" text="Until next time, my dear lady. May the words within my books continue to kindle the fires of your own creativity and inspiration."/>
+    <string id="LT181" text="Farewell, fair maiden. Remember that my bookshop is always open to a woman of your beauty and discerning taste."/>
+    <string id="LT182" text="It has been an honor serving you, my lady. May the lessons within my books guide you on your journey through life with ever greater wisdom and insight."/>
+    <string id="LT183" text="Until we meet again, my lady. May the knowledge and beauty within my books serve as a constant source of inspiration for your own life and endeavors."/>
+    <string id="LT184" text="I shall miss your charming company, my dear lady. May the memories of our conversations and the knowledge within my books be a constant comfort to you."/>
+    <string id="LT185" text="Farewell, my lady. Know that the beauty and radiance of your presence here shall remain within my heart like the glow of the stars in the night sky..."/>   
+    
+    <string id="LT186" text="Depart swiftly from my sight, you pestilent rat!"/>
+    <string id="LT187" text="Away with you, you foul and contemptuous knave!"/>
+    <string id="LT188" text="May the devil take you quickly, and swiftly at that!"/>
+    <string id="LT189" text="I bid you farewell, but do not return to my establishment!"/>
+    <string id="LT190" text="Leave at once, and may you never darken my doorway again!"/>
+    <string id="LT191" text="Take your leave without delay, before I take my own."/>
+    <string id="LT192" text="Your company has grown increasingly tiresome, away with you, and quickly!"/>
+    <string id="LT193" text="Be gone from my sight, before I summon the guards to remove you!"/>
+    <string id="LT194" text="May the road you travel be long and arduous for you, and may you not find rest!"/>
+    <string id="LT195" text="I care not where you go, so long as it is far away from my presence!"/>
+    
+    <string id="LT196" text=" has books: "/>
+    <string id="LT197" text="Removed "/>
+    <string id="LT198" text=" from "/>
+    <string id="LT199" text=" books left: "/>
+    <string id="LT200" text="Removed 3 books from "/>
+    <string id="LT201" text=", books left: "/>
+    <string id="LT202" text="Added books to "/>
+    <string id="LT203" text=" has "/>
+    <string id="LT204" text=" books"/>
+    <string id="LT205" text="Finished reading: "/>
+    <string id="LT206" text="That increased your "/>
+    <string id="LT207" text=" skill by "/>
+    <string id="LT208" text="You are too skilled in "/>
+    <string id="LT209" text=",\n so the book was a waste of time..."/>
+    <string id="LT210" text="Finished reading"/>
+    <string id="LT211" text="Finished reading: "/>
+    <string id="LT212" text="That increased your "/>
+    <string id="LT213" text=" skill by "/>
+    <string id="LT214" text="You are too skilled in "/>
+    <string id="LT215" text=",\n so the scroll was a waste of time..."/>
+    <string id="LT216" text="Finished reading"/>
+
+      
+
+
+
+  </strings>
+</base>
